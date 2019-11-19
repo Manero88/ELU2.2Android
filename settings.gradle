@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='FindMyCarApp'
+rootProject.name='My Application'
